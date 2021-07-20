@@ -2,8 +2,8 @@
 Color identification is the process of detecting the name of any color. This project can automatically get the name of the color by clicking on them. 
 
 Required libraries:
-Python cv
-pandas
+1) Python cv
+2) pandas
 
 The csv file contains all the color combinations.
 
